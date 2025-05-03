@@ -197,7 +197,6 @@ The image below will toggle dark/light mode based on theme preference, notice it
 ## Video		#插入视频
 
 {% include embed/youtube.html id='czj08CqU-mk' %}
-{% include video/bilibili.html id='BV1UT421k7RP' %}
 
 ## 脚注
 
