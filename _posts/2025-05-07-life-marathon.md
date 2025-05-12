@@ -27,7 +27,7 @@ image:
 
 我33岁那年秋天决定以写小说为生。为了保持健康，我开始跑步，每天凌晨4点起床，写作4小时，跑10公里。
 
-{% include embed/audio.html src='{http://music.163.com/song/media/outer/url?id=65546.mp3}' %}
+{% include embed/audio.html src='http://music.163.com/song/media/outer/url?id=65546.mp3' %}
 
 我是那种容易发胖的体质。我妻子却无论怎么吃也胖不起来。这让我时常陷入沉思：“人生真是不公平啊！一些人无需认真就能得到的东西，另一些人却需要付出很多才能换来。”
 不过转念一想，那些不费吹灰之力就能保持苗条的人，不会像我这样重视饮食和运动，也许老化得更快。什么才是公平，还得从长计议。
