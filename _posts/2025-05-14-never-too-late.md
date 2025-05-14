@@ -6,9 +6,11 @@ title: 永远都不会太晚
 pin: true
 toc: true 
 comments: true 
+image:
+  path: /img/enjoy-life.jpg
 ---
 
-{% include embed/audio.html  src='/audio/never-too-late.mp3'   types='ogg|wav|aac'  title='永远都不会太晚' %}
+{% include embed/audio.html  src='/audio/never-too-late.mp3'   types='ogg|wav|aac'  title='永远都不会太晚-[主播：扬尊]' %}
 
 去年以来我内心一直都有个小疙瘩。 我有很多事想做，但是总是有一个声音轻轻地说 “现在做是不是太晚了？”
 
