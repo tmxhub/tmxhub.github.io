@@ -41,5 +41,6 @@ order: 4
 ![收款码](/img/wechatcode.jpg){:.shadow}
 
 ## 联系方式
-**公众号：** 语料库翻译
-**电子邮箱：** tmxhub@gmail.com
+- **公众号：** 语料库翻译
+
+- **电子邮箱：** tmxhub@gmail.com
