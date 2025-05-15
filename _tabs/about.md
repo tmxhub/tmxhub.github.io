@@ -14,12 +14,17 @@ order: 4
 
 ## 博客内容
 
-以翻译技术、大语言模型等技术为主，博客主题：让技术为翻译赋能。
+以翻译技术、大语言模型等技术为主，让技术为翻译赋能。
 
 ## 推荐站点
 
-- [Gemini语音视频对话](https://gemini.llm.us.kg/)：接入Google Gemini，可与AI实时语音/视频交流。
-- [乐词网](https://terms.naer.edu.tw/)：台湾省国教院术语网站。
+- [Gemini语音视频对话](https://gemini.llm.us.kg/)：接入Google Gemini，可与AI实时语音/视频交流
+- [AI Translate](https://multitrans.vercel.app/)：AI对比翻译
+- [Chat100.AI](https://chat100.ai/zh-CN/app): 大模型三巨头
+- [AI LLM](https://playground.ai.cloudflare.com/): Works AI LLM Playground
+- [问小白](https://www.wenxiaobai.com/): DeepSeek平替网站
+- [提示词优化器](https://prompt.always200.com/): 提示词格式化生成
+- [乐词网](https://terms.naer.edu.tw/)：台湾省国教院术语网站
 
 ## 结语
 
