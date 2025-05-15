@@ -35,7 +35,7 @@ order: 4
 - 若购买相关产品，请务必先通过下方联系方式与我联系，并备注购买信息进行购买。
 
 支付宝收款码：
-![收款码](/img/paycode.jpg){:.shadow w="376" h="560"}
+![收款码](/img/alipaycode.jpg){:.shadow w="376" h="560"}
 
 微信收款码：
 ![收款码](/img/wechatcode.jpg){:.shadow w="386" h="528"}
