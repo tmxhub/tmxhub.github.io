@@ -11,6 +11,8 @@ comments: true
 
 {% include embed/audio.html  src='/audio/a-sweet-word.mp3'   types='ogg|wav|aac'  title='总有一句话，让你瞬间长大-[主播：娇杨]' %}
 
+文/张晓风
+
 > 我们的人生中，有一些无比珍贵的时刻。前一刻我们还是无知怯懦，悲观弱小，冷漠无言。经过那一句话的时光，我们仿佛突然开窍，瞬间长大。
 
 ![一句好话](https://ossimg.xinli001.com/visioncn/600x400/VCG41565973299.jpg){: .shadow}
