@@ -2,7 +2,7 @@
 categories: [阅读, 有声朗读]
 date: 2025-05-04 20:00:00 +0800
 last_modified_at: 2025-05-04 22:00:00 +0800
-tags: [水湄物语, 扬尊]
+tags: [特立独行的猫, 扬尊]
 title: 你打算什么时候从重复中惊醒？
 pin: false
 toc: true
