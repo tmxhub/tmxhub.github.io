@@ -8,7 +8,7 @@ pin: false
 toc: true
 comments: true
 image:
-  path: /img/wakeup.jpg
+  path: /img/harsh-words.jpg
 ---
 
 {% include embed/audio.html  src='/audio/harsh-words.mp3'   types='ogg|wav|aac'  title='当时的硬话，迟早会变软-[主播：扬尊]' %}
