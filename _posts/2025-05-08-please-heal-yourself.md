@@ -3,7 +3,7 @@ categories: [阅读, 有声朗读]
 date: 2025-05-08 20:00:00 +0800
 last_modified_at: 2025-05-08 22:00:00 +0800
 tags: [犀牛大哥, 扬尊]
-title: 不凡的是我们做的事
+title: 请自愈
 pin: false
 toc: true
 comments: true
