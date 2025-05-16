@@ -11,6 +11,8 @@ comments: true
 
 {% include embed/audio.html  src='/audio/life-marathon.mp3'   types='ogg|wav|aac'  title='人生马拉松-[主播：一刀]' %}
 
+文/村上春树
+
 我33岁那年秋天决定以写小说为生。为了保持健康，我开始跑步，每天凌晨4点起床，写作4小时，跑10公里。
 
 ![村上春树](https://i.postimg.cc/L5tKF5t8/cunshang.png){: .shadow}
