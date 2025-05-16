@@ -7,6 +7,8 @@ title: 一句好话
 pin: true
 toc: true 
 comments: true 
+image:
+  path: https://ossimg.xinli001.com/visioncn/600x400/VCG41565973299.jpg
 ---
 
 {% include embed/audio.html  src='/audio/a-sweet-word.mp3'   types='ogg|wav|aac'  title='总有一句话，让你瞬间长大-[主播：娇杨]' %}
