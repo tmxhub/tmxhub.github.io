@@ -8,7 +8,7 @@ pin: true
 toc: true 
 comments: true 
 image:
-  path: /img/enjoy-life.jpg
+  path: /img/never-too-late.jpg
 ---
 
 {% include embed/audio.html  src='/audio/never-too-late.mp3'   types='ogg|wav|aac'  title='永远都不会太晚-[主播：扬尊]' %}
