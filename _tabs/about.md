@@ -26,6 +26,7 @@ order: 4
 - [问小白](https://www.wenxiaobai.com/): DeepSeek平替网站
 - [提示词优化器](https://prompt.always200.com/): 提示词格式化生成
 - [乐词网](https://terms.naer.edu.tw/)：台湾省国教院术语网站
+- [心理FM](https://fm.xinli001.com/)：心理FM-世界和我爱着你
 
 ## 结语
 
