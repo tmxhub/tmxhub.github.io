@@ -7,6 +7,8 @@ title: 人生马拉松
 pin: false 
 toc: true 
 comments: true 
+image:
+  path: /img/life-marathon.jpg
 ---
 
 {% include embed/audio.html  src='/audio/life-marathon.mp3'   types='ogg|wav|aac'  title='人生马拉松-[主播：一刀]' %}
