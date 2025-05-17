@@ -8,10 +8,10 @@ pin: false
 toc: true
 comments: true
 image:
-  path: /img/cinderella-pumpkin-carriage.jpg
+  path: /img/embrace-your-dreams.jpg
 ---
 
-{% include embed/audio.html  src='/audio/cinderella-pumpkin-carriage.mp3'   types='ogg|wav|aac'  title='曾被打败过，依然拥抱理想-[主播：扬尊]' %}
+{% include embed/audio.html  src='/audio/embrace-your-dreams.mp3'   types='ogg|wav|aac'  title='曾被打败过，依然拥抱理想-[主播：扬尊]' %}
 
 文/笛安
 
