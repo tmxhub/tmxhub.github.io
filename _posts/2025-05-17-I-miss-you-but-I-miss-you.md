@@ -2,7 +2,7 @@
 categories: [阅读, 有声朗读]
 date: 2025-05-17 16:40:00 +0800
 last_modified_at: 2025-05-17 16:50:00 +0800
-tags: [佚名, 扬尊]
+tags: [佚名]
 title: 世界太大还是遇见你，世界太小还是丢了你
 pin: false
 toc: true
@@ -11,7 +11,7 @@ image:
   path: /img/I-miss-you-but-I-miss-you.jpg
 ---
 
-{% include embed/audio.html  src='/audio/I-miss-you-but-I-miss-you.mp3'   types='ogg|wav|aac'  title='世界太大还是遇见你，世界太小还是丢了你-[主播：扬尊]' %}
+{% include embed/audio.html  src='/audio/I-miss-you-but-I-miss-you.mp3'   types='ogg|wav|aac'  title='世界太大还是遇见你，世界太小还是丢了你-[主播：CC]' %}
 
 文/佚名
 
