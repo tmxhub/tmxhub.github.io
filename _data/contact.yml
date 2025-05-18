@@ -2,7 +2,7 @@
 
 - type: wechat
   icon: "fa fa-wechat"
-  url: 'https://i.postimg.cc/Prcz1SxT/qrcode.png' 
+  url: '/img/qrcode.png' 
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
