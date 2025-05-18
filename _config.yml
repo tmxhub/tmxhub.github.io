@@ -29,7 +29,7 @@ github:
   username: tmxhub # change to your GitHub username
 
 twitter:
-  username: tmxchina # change to your Twitter username
+  username: tmxhub # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -40,7 +40,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/tmxhub # change to your Twitter homepage
     - https://shang.llm.us.kg
-    - https://github.com/tmxchina # change to your GitHub homepage
+    - https://github.com/tmxhub # change to your GitHub homepage
     - https://space.bilibili.com/429798687  #bilibili Account
     # Uncomment below to add more social links
     # - https://www.facebook.com/tmxhub
