@@ -1,7 +1,7 @@
 #  The contact options.
 
-- type: bilibili
-  icon: "fab fa-bilibili"
+- type: github
+  icon: "fab fa-github"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
