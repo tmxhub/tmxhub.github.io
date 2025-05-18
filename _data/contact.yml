@@ -1,14 +1,14 @@
 #  The contact options.
 
 - type: wechat
-  icon: "fa fa-weixin"
+  icon: "fa-brands fa-weixin"
   url: '/img/qrcode.png' 
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
 - type: gemini
-  icon: 'fa fa-youtube-play'
+  icon: 'fa-brands fa-youtube'
   url: 'https://gemini.llm.us.kg/'  
 
 - type: email
