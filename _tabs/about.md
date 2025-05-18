@@ -44,5 +44,6 @@ order: 4
 
 ## 联系方式
 - **公众号：** 语料库翻译
+  ![二维码](https://i.postimg.cc/Prcz1SxT/qrcode.png){:.shadow w="200" h="200"}
 
 - **电子邮箱：** tmxhub@gmail.com
