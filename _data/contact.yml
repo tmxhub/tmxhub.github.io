@@ -1,7 +1,7 @@
 #  The contact options.
 
 - type: wechat
-  icon: "	fa fa-wechat"
+  icon: "fa fa-wechat"
   url: 'https://i.postimg.cc/Prcz1SxT/qrcode.png' 
 
 - type: twitter
