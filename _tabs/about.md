@@ -49,4 +49,4 @@ order: 4
 
 ![二维码](https://i.postimg.cc/Prcz1SxT/qrcode.png){:.shadow w="200" h="200"}
 
-- **电子邮箱：** tmxhub@gmail.com
+- **电子邮箱：** tmxhub@gmail.com、843522334@qq.com
