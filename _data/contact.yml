@@ -1,10 +1,15 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: Wechat
+  icon: "	fa fa-wechat"
+  url: 'https://i.postimg.cc/Prcz1SxT/qrcode.png' 
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+
+- type: Google Gemini
+  icon: 'fa fa-google'
+  url: 'https://gemini.llm.us.kg/'  
 
 - type: email
   icon: "fas fa-envelope"
