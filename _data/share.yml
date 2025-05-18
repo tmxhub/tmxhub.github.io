@@ -30,10 +30,6 @@ platforms:
     icon: "icon-weibo"
     link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
 
-  - type: Bilibili
-  icon: "icon-bilibili"
-  link: "https://sns-share.bilibili.com/share?url=URL&title=TITLE"
-
   # Uncomment below if you need to.
   #
   # - type: Linkedin
