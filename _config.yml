@@ -29,10 +29,7 @@ github:
   username: tmxhub # change to your GitHub username
 
 twitter:
-  username: tmxhub # change to your Twitter username
-
-bilibili:
-  username: https://space.bilibili.com/429798687 # change to your GitHub username
+  username: tmxchina # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -43,11 +40,11 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/tmxhub # change to your Twitter homepage
     - https://shang.llm.us.kg
-    - https://github.com/tmxhub # change to your GitHub homepage
-    - https://space.bilibili.com/429798687
+    - https://github.com/tmxchina # change to your GitHub homepage
+    - https://space.bilibili.com/429798687  #bilibili Account
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.facebook.com/tmxhub
+    # - https://www.linkedin.com/in/tmxhub
 
 # Site Verification Settings
 webmaster_verifications:
@@ -110,11 +107,7 @@ avatar: /img/avatar.png
 social_preview_image: https://i.postimg.cc/gJTKBvHz/tmxhub.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-panel:
-  lastmod: true
-  trending_tags: false
-  external_links: true
-  toc: true
+toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
@@ -194,9 +187,6 @@ defaults:
     values:
       layout: post
       comments: true # Enable comments in posts.
-      lastmod: true
-      trending_tags: true
-      external_links: true
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
