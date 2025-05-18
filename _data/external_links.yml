@@ -1,5 +1,5 @@
 -
-  icon: https://img.shields.io/badge/link-996.icu-red.svg
+  icon: /img/avatar.png
   # 是否使用 Iconfont 的图标字体
   use_iconfont: false
   name: Gemini实时音视频对话
