@@ -25,6 +25,48 @@ platforms:
   - type: Weibo
     icon: "fab fa-weibo"
     link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"  
+
+  - type: WeChat Friends
+    icon: "fab fa-weixin"
+    link: "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=URL"
+    # 说明：生成二维码，微信扫码分享
+
+  - type: WeChat Moments
+    icon: "fab fa-weixin"
+    link: "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=URL"
+    # 说明：生成二维码，微信扫码分享到朋友圈
+
+  - type: Douban
+    icon: "fab fa-douban"
+    link: "https://www.douban.com/share/service?href=URL&name=TITLE"
+
+  - type: Baidu Tieba
+    icon: "fa fa-paw"
+    link: "https://tieba.baidu.com/f/commit/share/openShareApi?url=URL&title=TITLE"
+
+  - type: Renren
+    icon: "fab fa-renren"
+    link: "http://widget.renren.com/dialog/share?resourceUrl=URL&title=TITLE"
+
+  - type: DingTalk
+    icon: "fa fa-dingding"
+    link: "https://www.dingtalk.com/share?url=URL&title=TITLE"
+    # 说明：钉钉网页端分享较少用，通常用App内分享
+
+  - type: Zhihu
+    icon: "fab fa-zhihu"
+    link: "https://www.zhihu.com/share?url=URL"
+    # 说明：知乎分享接口有限，通常为内容页自带
+
+  - type: Xiaohongshu
+    icon: "fa fa-book"
+    link: "https://www.xiaohongshu.com/explore?url=URL"
+    # 说明：小红书暂无官方网页端分享接口，通常为App内分享
+
+  - type: Bilibili
+    icon: "fab fa-bilibili"
+    link: "https://www.bilibili.com/share?url=URL&title=TITLE"
+    # 说明：B站网页端分享接口有限，通常为内容页自带
     
   # Uncomment below if you need to.
   #
