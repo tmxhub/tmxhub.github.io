@@ -1,5 +1,5 @@
 ---
-categories: [大模型, API]
+categories: [翻译技术, 大模型]
 date: 2025-05-17 22:10:00 +0800
 last_modified_at: 2025-05-17 22:30:00 +0800
 tags: [LLM, API]
