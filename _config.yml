@@ -62,7 +62,6 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
     ad-client: "ca-pub-4154099586062650"
-    ad-slot: "f08c47fec0942fa0"
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
