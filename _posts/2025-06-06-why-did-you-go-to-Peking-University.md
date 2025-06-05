@@ -11,7 +11,7 @@ image:
   path: /img/why-did-you-go-to-Peking-University.jpg
 ---
 
-{% include embed/audio.html  src='/audio/why-did-you-go-to-Peking-University.m4a'   types='ogg|wav|aac'  title='你凭什么上北大-[主播：阿诗丽]' %}
+{% include embed/audio.html  src='/audio/why-did-you-go-to-Peking-University.mp3'   types='ogg|wav|aac'  title='你凭什么上北大-[主播：阿诗丽]' %}
 
 文/贺舒婷
 
