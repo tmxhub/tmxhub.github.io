@@ -4,7 +4,7 @@ date: 2025-05-18 09:00:00 +0800
 last_modified_at: 2025-05-18 09:10:00 +0800
 tags: [周星驰, 孙悦斌]
 title: 周星驰的第一场戏
-pin: true
+pin: false
 toc: true
 comments: true
 image:
