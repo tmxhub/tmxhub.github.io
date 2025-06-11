@@ -1,7 +1,7 @@
 ---
 categories: [阅读, 有声朗读]
-date: 2025-05-17 17:00:00 +0800
-last_modified_at: 2025-05-17 17:10:00 +0800
+date: 2025-05-29 17:00:00 +0800
+last_modified_at: 2025-05-29 17:10:00 +0800
 tags: [佚名, 一念]
 title: 给未来的自己
 pin: false
