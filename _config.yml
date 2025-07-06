@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://tmxhub.github.io', note that it does not end with a '/'.
-url: "https://shang.llm.us.kg"
+url: "https://shang.xx.kg"
 
 github:
   username: tmxhub # change to your GitHub username
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/tmxhub # change to your Twitter homepage
-    - https://shang.llm.us.kg
+    - https://shang.xx.kg
     - https://github.com/tmxhub # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: https://shang.llm.us.kg
+cdn: https://shang.xx.kg
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /img/avatar.png
@@ -130,7 +130,7 @@ comments:
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
   remark42:
-    host: https://shang.llm.us.kg
+    host: https://shang.xx.kg
     site_id: voxsay
     max_shown_comments: 20
     theme: auto # 'light', 'dark', or 'auto'
