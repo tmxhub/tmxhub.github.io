@@ -4,7 +4,7 @@ date: 2025-07-06 07:00:00 +0800
 last_modified_at: 2025-07-06 07:10:00 +0800
 tags: [泛泛晨读, 泛泛]
 title: 和泛泛一起读《庄子》
-pin: true
+pin: false
 toc: true
 comments: true
 image:
