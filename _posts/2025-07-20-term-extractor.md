@@ -1,7 +1,7 @@
 ---
 categories: [翻译技术, 大模型]
 date: 2025-07-20 22:00:00 +0800
-last_modified_at: 2025-07-20 22:10:00 +0800
+last_modified_at: 2025-07-20 22:30:00 +0800
 tags: [术语提取, 大模型翻译]
 title: 术语提取工具
 pin: false
