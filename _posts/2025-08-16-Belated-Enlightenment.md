@@ -39,9 +39,13 @@ AI翻唱现在非常流行，我也尝试做了一个。
 
 {% include embed/audio.html  src='/audio/Belated-Enlightenment-AIlironghao.mp3'   types='ogg|wav|aac'  title='迟到的开窍-AI李荣浩' %}
 
+{% include embed/audio.html  src='/audio/Belated-Enlightenment-AIwanglihong.mp3'   types='ogg|wav|aac'  title='迟到的开窍-AI王力宏' %}
+
 {% include embed/audio.html  src='/audio/Belated-Enlightenment-AIfangdatong.mp3'   types='ogg|wav|aac'  title='迟到的开窍-AI方大同' %}
 
-{% include embed/audio.html  src='/audio/Belated-Enlightenment-AIwanglihong.mp3'   types='ogg|wav|aac'  title='迟到的开窍-AI王力宏' %}
+{% include embed/audio.html  src='/audio/Belated-Enlightenment-AIdengziqi.mp3'   types='ogg|wav|aac'  title='迟到的开窍-AI邓紫棋' %}
+
+{% include embed/audio.html  src='/audio/Belated-Enlightenment-AIchenyixun.mp3'   types='ogg|wav|aac'  title='迟到的开窍-AI陈奕迅' %}
 
 自己点歌，让喜欢的歌手为你弹唱吧！
 
