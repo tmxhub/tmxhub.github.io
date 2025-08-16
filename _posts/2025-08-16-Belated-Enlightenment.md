@@ -19,6 +19,8 @@ AI翻唱现在非常流行，我也尝试做了一个。
 
 {% include embed/bilibili.html id='BV1pvYezAEF4' %}
 
+![Replay界面](/img/Replay.png){: .shadow}
+
 ![剪辑工程文件](/img/Belated-Enlightenment2.png){: .shadow}
 
 **其他版本**
