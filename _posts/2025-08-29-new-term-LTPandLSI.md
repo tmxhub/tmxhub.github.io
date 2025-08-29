@@ -4,7 +4,7 @@ date: 2025-08-29 21:20:00 +0800
 last_modified_at: 2025-08-29 21:30:00 +0800
 tags: [LSI, LTP]
 title: 本地化新术语：LSI和LTP
-pin: true
+pin: false
 toc: true
 comments: true
 image:
@@ -75,4 +75,5 @@ LSP语言服务提供商也不再只是卖人工服务，而是会打包语言AI
 所以，新的名词，新的分类的出现，并不是为了玩概念，而是反映了行业客观的现实变化。
 
 万象更新之际，既是挑战，也是机会，大家一起加油！！！
+
 
