@@ -1,9 +1,5 @@
 #  The contact options.
 
-- type: wechat
-  icon: "fa-brands fa-weixin"
-  url: '/img/qrcode.png' 
-
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
