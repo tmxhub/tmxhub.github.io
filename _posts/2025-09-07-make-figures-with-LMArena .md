@@ -10,6 +10,7 @@ comments: true
 image:
   path: /img/make-figures-with-LMArena.png
 ---
+模特：我的小外甥
 
 网站：https://lmarena.ai/
 
@@ -23,4 +24,5 @@ image:
 效果图：
 
 ![用LMArena制作手办风格照片](/img/make-figures-with-LMArena2.png){: .shadow}
+
 
