@@ -27,8 +27,10 @@ order: 4
 - [提示词优化器](https://prompt.always200.com/): 提示词格式化生成
 - [乐词网](https://terms.naer.edu.tw/)：台湾省国教院术语网站
 - [心理FM](https://fm.xinli001.com/)：心理FM-世界和我爱着你
+- [SaltyLeo的书架](https://tstrs.me/search)：SaltyLeo的书架是一个提供电子书、有声读物下载的网站，资源更偏向于传统的书籍，对于小说类的资源覆盖并不多。如果你需要下载电子书，推荐你优先试试 O-lib、Z-library、安娜的档案、怀旧书库 等网站，资源丰富且下载迅速。
 
 ## 结语
 
 欢迎访问我的博客，和我一起交流学习，共同进步，转载本站文章请注明作者和出处。
+
 
