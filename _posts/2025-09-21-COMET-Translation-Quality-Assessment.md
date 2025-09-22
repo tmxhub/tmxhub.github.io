@@ -1,5 +1,5 @@
 ---
-categories: [LLM]
+categories: [大模型]
 date: 2025-09-21 18:00:00 +0800
 last_modified_at: 2025-09-21 18:10:00 +0800
 tags: [TQA, COMET]
@@ -33,3 +33,4 @@ image:
 2. 译文评分系统：https://qi.unbabel.com/
 
 3. 译文比较系统：https://mtdemo.unbabel.com/
+
