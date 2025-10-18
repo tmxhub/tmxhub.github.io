@@ -1,7 +1,7 @@
 ---
 categories: [LLM]
-date: 2025-09-21 18:00:00 +0800
-last_modified_at: 2025-09-21 18:10:00 +0800
+date: 2025-10-18 17:00:00 +0800
+last_modified_at: 2025-10-18 17:10:00 +0800
 tags: [智能体, 提示词]
 title: AI智能体提示词大全
 pin: false
