@@ -8,7 +8,7 @@ pin: false
 toc: true
 comments: true
 image:
-  path: /img/llmqe-5.png
+  path: /img/llmqe-4.png
 ---
 
 大模型翻译质量评估系统
@@ -31,3 +31,4 @@ image:
 
 **预约测试**
 - e-mail：843522334@qq.com
+
